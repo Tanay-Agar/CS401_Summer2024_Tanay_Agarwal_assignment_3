@@ -7,4 +7,4 @@ StringUtils.java - It contains a public class called StringUtils which is to be 
                   trimWhitespace: It removes the before and after white spaces without removing the white spaces in between. It uses two while loops to achive this. 
 StringUtilsTest.java - This test class does parameterized testing for 36 testcases. There are 8 test cases per method above and four testcases that use combination of methods. 
 Test Plan Homework 3.pdf - This documenst the test plan, including test objectives, test scenarios, and test data. 
-Test Report.pdf - This summarizes the test coverage, test execution results, and overall quality assessment of the string operations class.
+Testcase Report.pdf - This summarizes the test coverage, test execution results, and overall quality assessment of the string operations class.
